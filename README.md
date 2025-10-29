@@ -1,3 +1,4 @@
 # hr_automation
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/MilaStevanoska/hr_automation)
+An automated resume processing platform that eliminates manual data entry by extracting candidate information from PDF resumes and populating detailed profiles automatically using Open-AI api.
+https://hr-candidate-profile-dnrf.bolt.host
